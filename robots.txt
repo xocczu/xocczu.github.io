@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xocczu.github.io/sitemap.html.gz
+Sitemap: https://xocczu.github.io/app/sitemap.html.gz
+Sitemap: https://xocczu.github.io/assets/sitemap.html.gz
+Sitemap: https://xocczu.github.io/css/sitemap.html.gz
+Sitemap: https://xocczu.github.io/data/sitemap.html.gz
+Sitemap: https://xocczu.github.io/includes/sitemap.html.gz
+Sitemap: https://xocczu.github.io/item/sitemap.html.gz
+Sitemap: https://xocczu.github.io/src/sitemap.html.gz
